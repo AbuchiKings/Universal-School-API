@@ -1,5 +1,9 @@
 # The Universal School System API
 
+## Authors
+*  [Abuchi Kingsley Ndinigwe](https://github.com/Abuchikings)
+*  [Immanuel Diai](https://github.com/IMMANUEL5015)
+
 ## About The API
 The API itself can be found [here](https://universal-school-system.herokuapp.com/).
 
@@ -392,6 +396,12 @@ The administrators of the application have access to all the resources in the sy
 * A Student Can Update Their Book Shelf
 * A Student Can Delete Their Book Shelf
 * A Student Can Get A Book From Their Book Shelf
+
+## Additional Documentaions
+* [Student Attendance API](attendance_readme)
+* [Chat API](chat_readme)
+* [Notification API](notification_readme)
+* [Fee Payment and Integrated Zoom API](feePaymentList-zoom_readme)
 
 ### Each API Endpoint And Their Purpose
 This API has routes, each of which are dedicated to a single objective. The endpoints make use of HTTP response codes to indicate the API status and errors.
