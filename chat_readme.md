@@ -2311,3 +2311,5 @@ Only the creator of a message, and the school management (School-Administrator, 
 
 * Response
     * Status: 204 - no content
+
+[Back to main documentation](README.md)
