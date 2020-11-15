@@ -398,10 +398,10 @@ The administrators of the application have access to all the resources in the sy
 * A Student Can Get A Book From Their Book Shelf
 
 ## Additional Documentaions
-* [Student Attendance API](attendance_readme)
-* [Chat API](chat_readme)
-* [Notification API](notification_readme)
-* [Fee Payment and Integrated Zoom API](feePaymentList-zoom_readme)
+* [Student Attendance API](attendance_readme.md)
+* [Chat API](chat_readme.md)
+* [Notification API](notification_readme.md)
+* [Fee Payment and Integrated Zoom API](feePaymentList-zoom_readme.md)
 
 ### Each API Endpoint And Their Purpose
 This API has routes, each of which are dedicated to a single objective. The endpoints make use of HTTP response codes to indicate the API status and errors.
