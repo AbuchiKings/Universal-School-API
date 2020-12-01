@@ -12,7 +12,9 @@
 * [Fee Payment and Integrated Zoom API](feePaymentList-zoom_readme.md)
 
 ## About The API
-The API itself can be found [here](https://universal-school-system.herokuapp.com/).
+The code for this API is hosted in a private repository.
+
+The sample API itself can be found [here](https://universal-school-system.herokuapp.com/).
 
 This API is specifically designed for powering the universal school mobile application. The application ensures that schools can hold lectures and carry on other essential school activities in a virtual environment.
 
